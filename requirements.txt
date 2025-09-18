@@ -1,0 +1,7 @@
+pandas 
+faker 
+numpy
+google-adk>=1.7.0
+google-cloud-bigquery>=3.35.0
+google-cloud-aiplatform>=1.104.0
+python-dotenv>=1.0.0
